@@ -1,0 +1,19 @@
+Do These 5 Simple Things to Make Your Data Scientist Resume Stand Out From the Crowd
+Improving performance and explainability of Zero-Shot CLIP
+Use the Synonyms APIs to Update Synonyms Conveniently in Elasticsearch
+How Exactly Does a Decision Tree Solve a Regression Problem?
+False Prophet: Comparing a Regression Model to Meta’s Prophet
+Optimisation Algorithms: Neural Networks 101
+Detecting Power Laws in Real-world Data with Python
+Two-Tower Networks and Negative Sampling in Recommender Systems
+Command Line Interface with sysargv, argparse, docopts, and Typer
+Exploratory Data Analysis: What Do We Know About YouTube Channels (Part 2)
+Overviewing the Global Chocolate Trade
+Build a Language Model on your WhatsApp Chats
+Demystify Data Backfilling
+Developing a Climate GPT Using NASA’s Power API
+Do These 5 Simple Things to Make Your Data Scientist Resume Stand Out From the Crowd
+A Practitioner’s Guide to Reinforcement Learning
+“Approximate-Predictions” Make Feature Selection Radically Faster
+Real-World Problems, and How Data Helps Us Solve Them
+The Creative, Occasionally Messy World of Textual Data

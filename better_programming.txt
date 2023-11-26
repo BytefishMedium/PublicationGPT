@@ -1,0 +1,14 @@
+Automating Your DevOps: Writing Scripts that Save Time and Headaches
+Integrating Psychology into Software Development
+WebAssembly with Go: Taking Web Apps to the Next Level
+How to Crush API Dev Work when You’re 100% Remote with Postman
+Resilience in the Face of Rejection: Lessons from Losing My Dream Job
+What Isomorphic types are and why you might need them developing with Swift.
+Exploring Rust’s Option Type: A Guide to Optional Value Handling
+Slack Notifications for Alerting (via AWS Lambda)
+Automatically Create NBA Highlights With a Few Lines of Python Code
+A Deep Dive Into My Medium Data: Experimenting With DuckDB, Plotly, and Streamlit
+Corrupted Hard Drive? Python to the Rescue!
+Building better software: leveraging product management principles.
+Localisation in Xcode 15
+When Your Manager Does Not Listen
